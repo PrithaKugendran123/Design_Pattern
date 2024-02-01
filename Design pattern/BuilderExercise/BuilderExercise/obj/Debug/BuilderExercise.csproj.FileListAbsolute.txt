@@ -1,0 +1,7 @@
+C:\Users\kugen\source\repos\BuilderExercise\BuilderExercise\bin\Debug\BuilderExercise.exe.config
+C:\Users\kugen\source\repos\BuilderExercise\BuilderExercise\bin\Debug\BuilderExercise.exe
+C:\Users\kugen\source\repos\BuilderExercise\BuilderExercise\bin\Debug\BuilderExercise.pdb
+C:\Users\kugen\source\repos\BuilderExercise\BuilderExercise\obj\Debug\BuilderExercise.csproj.AssemblyReference.cache
+C:\Users\kugen\source\repos\BuilderExercise\BuilderExercise\obj\Debug\BuilderExercise.csproj.CoreCompileInputs.cache
+C:\Users\kugen\source\repos\BuilderExercise\BuilderExercise\obj\Debug\BuilderExercise.exe
+C:\Users\kugen\source\repos\BuilderExercise\BuilderExercise\obj\Debug\BuilderExercise.pdb
